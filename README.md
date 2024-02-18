@@ -1,6 +1,6 @@
 # Learn JavaScript
 
-**_Welcome to the Learn JavaScript repository! This repository is intended to help people learn and improve their JavaScript skills through interactive examples, tutorials, and exercises._**
+**_Welcome to the JavaScript basics repository! This repository is intended to help people learn and improve their JavaScript skills through interactive examples, tutorials, and exercises._**
 
 # Topics
 
